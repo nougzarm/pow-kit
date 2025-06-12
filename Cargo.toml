@@ -8,3 +8,5 @@ categories = ["cryptography", "algorithms"]
 keywords = ["proof-of-work", "framework"]
 
 [dependencies]
+rand = "0.9.1"
+sha2 = "0.10.9"
